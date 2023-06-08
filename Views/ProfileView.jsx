@@ -13,5 +13,7 @@ export default ProfileView;
 const styles = StyleSheet.create({
     profileViewContainer: {
         flex: 1,
+        justifyContent: 'center',
+        alignItems: 'center'
     }
 });
