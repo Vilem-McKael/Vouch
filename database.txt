@@ -1,0 +1,22 @@
+// users
+
+id
+name: {
+    first
+    last
+}
+email
+username
+password
+
+// pages / profiles
+
+
+
+// vouches / entries
+
+
+
+// updates / posts
+
+

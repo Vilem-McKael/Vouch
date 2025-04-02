@@ -1,0 +1,1 @@
+rnf - creates a basic react native functional component

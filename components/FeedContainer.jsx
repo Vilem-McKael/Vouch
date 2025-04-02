@@ -39,8 +39,8 @@ function FeedContainer() {
             media: {
                 medium: 'television',
                 type: 'show',
-                title: 'Succession',
-                platform: 'HBO'
+                title: 'Community',
+                platform: 'Netflix'
             },
             updatedAt: Date.now()
         },
